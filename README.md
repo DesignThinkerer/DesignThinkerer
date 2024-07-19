@@ -38,6 +38,8 @@ I'm Théophile Desmedt, an infographist and front-end web developer from Tournai
 
 I am passionate about learning and staying updated with the latest technological trends. If you're interested in collaborating or just want to chat, feel free to reach out!
 
+<!--
+
 ![Théophile's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesignThinkerer&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DesignThinkerer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
