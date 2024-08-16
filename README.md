@@ -13,8 +13,8 @@ I'm Théophile Desmedt, an infographist and front-end web developer from Tournai
 ### Skills
 
 #### Languages & Frameworks:
-- **Programming:** CSS, HTML, Javascript, Typescript, PHP, SQL
-- **Frameworks:** Angular, Ionic, React
+![Programming](https://skillicons.dev/icons?i=js,html,css,ts,php,sql)
+![Frameworks](https://skillicons.dev/icons?i=angular,react,laravel,symfony)
 
 #### Design & Multimedia:
 - **Adobe Suite:** Photoshop, Illustrator, Indesign, AfterEffect, Premiere
