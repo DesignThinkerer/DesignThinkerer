@@ -8,9 +8,9 @@ I'm Théophile Desmedt, an infographist and front-end web developer from Tournai
 - 👯 I’m looking to collaborate on front-end projects, especially those that challenge me to combine my graphic design and coding skills.
 - 🤔 I’m looking for help with WASM sqlite for my project Scidélice.
 -->
-- ⚡ In my free time I love running, tabletop gaming and cooking
-- 💬 [Contact me](mailto:hello@theophile.dev) to talk about anything web or science related, or simply chat!
-- 📫 You can also reach me on [LinkedIn](https://www.linkedin.com/in/theophile-desmedt)
+- ⚡In my free time, I love running, playing tabletop games, and cooking.
+- 💬 [Contact me](mailto:hello@theophile.dev) to chat about anything web- or science-related, or just to say hello!
+- 📫 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/theophile-desmedt)
 
 ### Skills
 
