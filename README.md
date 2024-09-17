@@ -2,8 +2,9 @@
 
 I'm Théophile Desmedt, an infographist and front-end web developer from Tournai, Belgium. I have a diverse background in graphic design, web development and science. I'm learning to blend creativity with technology to create accessible and functional web applications.
 
-- 🔭 I’m currently working on [theophile.dev](https://github.com/thinkerers/theophile.dev), my personal website that will showcase my projects and share my discoveries. Website coded from scratch in PHP with a 100MB data restriction, following PSR guidelines.
-- 🌱 I plan to release [Scidélice](https://github.com/DesignThinkerer/scidelice.com) in october, a angular PWA website that teach how to cook, with science!
+- 🔭 I’m currently working on [theophile.dev](https://github.com/thinkerers/theophile.dev), my personal website that showcases my projects and shares my discoveries. The website is coded from scratch in PHP with an SQLite database, within a 100MB data restriction, and follows PSR guidelines.
+- 🌱 I plan to release [Scidélice](https://github.com/DesignThinkerer/scidelice.com) in October, an Angular PWA website that teaches cooking with a scientific twist!
+- 📚 I have created [a public collection of TiddlyWikis](https://designthinkerer.github.io/tw/)—personal wikis self-contained within a single HTML file—covering a variety of interesting topics.
 <!--
 - 👯 I’m looking to collaborate on front-end projects, especially those that challenge me to combine my graphic design and coding skills.
 - 🤔 I’m looking for help with WASM sqlite for my project Scidélice.
