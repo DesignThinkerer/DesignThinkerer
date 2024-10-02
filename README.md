@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Théophile |  Front-end developer based in 🇧🇪</h1>
+<!-- INTRO -->
+<a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite...;Full-Stack+Software+Developer/Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Th%C3%A9ophile;+%F0%9F%87%A7%F0%9F%87%AA+Front-end+developer" alt="Typing SVG" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=DesignThinkerer&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
@@ -16,6 +20,10 @@ I'm Théophile Desmedt, an infographist and front-end web developer from Tournai
 - ⚡In my free time, I love running, playing tabletop games, and cooking.
 - 💬 [Contact me](mailto:hello@theophile.dev) to chat about anything web- or science-related, or just to say hello!
 - 📫 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/theophile-desmedt)
+
+---
+
+### Media
 
 ### Skills
 
