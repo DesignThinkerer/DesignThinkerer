@@ -5,6 +5,9 @@
 
 - 👨🏻‍💻 **Full-stack Developer** specializing in the **MEAN stack** with an **infographist background**
 - 💼 **Actively looking for web developer roles**, available immediately
+<!--
+- 🌐 Check out my [Portfolio](https://theophile.dev/portfolio)
+-->
 - 🔭 I’m currently working on ..
   - 🌱 [theophile.dev](https://github.com/thinkerers/theophile.dev), my personal website that showcases my projects and shares my discoveries. The website is coded from scratch in PHP with an SQLite database, within a 100MB data restriction, and follows PSR guidelines.
   - 🌱 [Scidélice](https://github.com/DesignThinkerer/scidelice.com), an Angular PWA website that teaches cooking with a scientific twist!
