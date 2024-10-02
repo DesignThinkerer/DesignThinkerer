@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théophile |  Front-end developer based in 🇧🇪</h1>
 
+[![](https://visitcount.itsvg.in/api?id=DesignThinkerer&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 I'm Théophile Desmedt, an infographist and front-end web developer from Tournai, Belgium. I have a diverse background in graphic design, web development and science. I'm learning to blend creativity with technology to create accessible and functional web applications.
 
 - 🔭 I’m currently working on ..
