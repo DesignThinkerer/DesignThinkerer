@@ -1,10 +1,9 @@
 <!-- INTRO -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=2000&pause=1500&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Th%C3%A9ophile;+%F0%9F%87%A7%F0%9F%87%AA+Front-end+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=2000&pause=1500&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Th%C3%A9ophile;+%F0%9F%87%A7%F0%9F%87%AA+Full-stack+developer" alt="Typing SVG" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=DesignThinkerer&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-I'm Théophile Desmedt, an infographist and front-end web developer from Tournai, Belgium. I have a diverse background in graphic design, web development and science. I'm learning to blend creativity with technology to create accessible and functional web applications.
-
+- 👨🏻‍💻 **Full-stack Developer** specializing in the **MEAN stack** with an **infographist background**
 - 🔭 I’m currently working on ..
   - 🌱 [theophile.dev](https://github.com/thinkerers/theophile.dev), my personal website that showcases my projects and shares my discoveries. The website is coded from scratch in PHP with an SQLite database, within a 100MB data restriction, and follows PSR guidelines.
   - 🌱 [Scidélice](https://github.com/DesignThinkerer/scidelice.com), an Angular PWA website that teaches cooking with a scientific twist!
