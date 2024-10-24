@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=DesignThinkerer&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 - 👨🏻‍💻 **Full-stack Developer** specializing in the **MEAN stack** with an **infographist background**
-- 💼 **Actively looking for web developer roles**, available immediately
+- 💼 **Actively looking for front-end developer roles**, available immediately
 <!--
 - 🌐 Check out my [Portfolio](https://theophile.dev/portfolio)
 -->
