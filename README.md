@@ -5,6 +5,7 @@
 
 - 👨🏻‍💻 **Full-stack Developer** specializing in the **MEAN stack** with an **infographist background**
 - 💼 **Actively looking for front-end developer roles**, available immediately
+- 📃 **Resume** : https://rxresu.me/theophiledesmedt/front-end-developer
 <!--
 - 🌐 Check out my [Portfolio](https://theophile.dev/portfolio)
 -->
