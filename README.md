@@ -11,7 +11,9 @@
 - 🔭 I’m currently working on ..
   - 🌱 [theophile.dev](https://github.com/thinkerers/theophile.dev), my personal website that showcases my projects and shares my discoveries. The website is coded from scratch in PHP with an SQLite database, within a 100MB data restriction, and follows PSR guidelines.
   - 🌱 [Scidélice](https://github.com/DesignThinkerer/scidelice.com), an Angular PWA website that teaches cooking with a scientific twist!
+  <!--
   - 🌱 An e-shop for an artist, coded with Symfony
+  -->
 - 🗂 I have created [a public collection of TiddlyWikis](https://designthinkerer.github.io/tw/)—personal wikis self-contained within a single HTML file—covering a variety of interesting topics.
 <!--
 - 👯 I’m looking to collaborate on front-end projects, especially those that challenge me to combine my graphic design and coding skills.
