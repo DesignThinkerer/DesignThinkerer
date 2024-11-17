@@ -1,9 +1,9 @@
 <!-- INTRO -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=2000&pause=1500&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Th%C3%A9ophile;+%F0%9F%87%A7%F0%9F%87%AA+Web+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=2000&pause=1500&center=true&vCenter=true&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Th%C3%A9ophile;+%F0%9F%87%A7%F0%9F%87%AA+Front-end+developer" alt="Typing SVG" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=DesignThinkerer&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-- 👨🏻‍💻 **Full-stack Developer** specializing in the **MEAN stack** with an **infographist background**
+- 👨🏻‍💻 **Web Developer** with an **infographist background**
 - 💼 **Actively looking for front-end developer roles**, available immediately
 - 📃 **Resume** : https://rxresu.me/theophiledesmedt/front-end-developer
 <!--
