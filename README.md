@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=DesignThinkerer&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 - 👨🏻‍💻 **Web Developer** with an **infographist background**
-- 💼 **Actively looking for front-end developer roles**, available immediately
+- 💼 **Actively looking for front-end developer roles**, available in april
 - 📃 **Resume** : https://rxresu.me/theophiledesmedt/front-end-developer
 <!--
 - 🌐 Check out my [Portfolio](https://theophile.dev/portfolio)
