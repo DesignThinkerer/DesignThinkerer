@@ -44,9 +44,7 @@
 
 ### Education & Certifications
 - **Front-end Web Development** (2nd Year), ifapme Tournai (2023 - Present)
-- **Bachelor in Infographics** (3rd Year), HEH Mons (2017 - 2020)
 - **Associate Level in Mechanical Design**, Dassault Systems (2018)
-- **Bachelor in Chemistry** (2nd Year), HELHa Mons (2014 - 2017)
 
 ### Professional Experience
 - **Infographist Intern**, BizzDev, Tournai (Feb 2020 - May 2020)
