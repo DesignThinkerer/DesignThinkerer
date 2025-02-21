@@ -34,7 +34,7 @@
 #### Languages & Frameworks:
 ![Programming](https://skillicons.dev/icons?i=js,html,css,ts,php,sql)
 <!--![Frameworks](https://skillicons.dev/icons?i=angular,react,laravel,symfony)-->
-![Frameworks](https://skillicons.dev/icons?i=angular,symfony)
+![Frameworks](https://skillicons.dev/icons?i=angular,react)
 
 #### Design & Multimedia:
 - **Adobe Suite:** Photoshop, Illustrator, Indesign, AfterEffect, Premiere
